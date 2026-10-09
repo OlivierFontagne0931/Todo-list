@@ -1,14 +1,14 @@
-  ## Mini application de suivi de tâches
+# Mini application de suivi de tâches
 
 ------
 
-  * Technologies utilisées
+# Technologies utilisées
 
-- HTML5, CSS3, JavaScript, Git & GitHub 
+- HTML5, CSS3, JavaScript, Git & GitHub et VScode
 
 ------
-  
-  * Déroulé du projet
+
+# Déroulé du projet
 
 - Récupération du champs de saisie <input>
 - Récupération du bouton <button>
@@ -24,7 +24,7 @@
 
 ------
 
-  * Dificultés rencontrées
+# Dificultés rencontrées
 
 - Trouver les bon éléments à intégrer dans le JavaScript
 - Respecter le déroulé étape par étape
@@ -32,18 +32,15 @@
 
 ------
 
-  * Historique
+# Historique
 
 - 07/10/2026: Rédaction du fichier index.html
 - 08/10/2026: Rédaction du fichier todolist.js et style.css
 - 08/10/2026: Rédaction du fichier readme.md
-- 08/10/2026: Commit des fichiers html, css js et readme sur GitHub via Git
+- 09/10/2026: Commit des fichiers html, css, js et readme sur GitHub via Git
 
 ------
 
-  * Validation de la page html
+# Validation de la page html
 
 - <img src="/img-validateur/w3c.png">
-
-
-# Todo-list
